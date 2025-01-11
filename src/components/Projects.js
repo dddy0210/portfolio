@@ -16,7 +16,7 @@ function Projects() {
   const projectData = [
     {
       title: "여행 기록작성 및 공유 웹",
-      duration: "2024.11.20 ~ 2024.12.30",
+      duration: "2024.11.18 ~ 2024.12.30",
       members: "5명",
       roles: [
         "좋아요 API구현",
