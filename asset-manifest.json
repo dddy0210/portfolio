@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.19cc8643.css",
-    "main.js": "/portfolio/static/js/main.03225383.js",
+    "main.js": "/portfolio/static/js/main.a1efe96b.js",
     "static/js/488.2f586731.chunk.js": "/portfolio/static/js/488.2f586731.chunk.js",
     "static/media/GowunDodum-Regular.ttf": "/portfolio/static/media/GowunDodum-Regular.af5304a39dc307a26989.ttf",
     "static/media/LOGO.png": "/portfolio/static/media/LOGO.5175e6006b0f150e9815.png",
@@ -33,11 +33,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/HTML.svg": "/portfolio/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
     "main.19cc8643.css.map": "/portfolio/static/css/main.19cc8643.css.map",
-    "main.03225383.js.map": "/portfolio/static/js/main.03225383.js.map",
+    "main.a1efe96b.js.map": "/portfolio/static/js/main.a1efe96b.js.map",
     "488.2f586731.chunk.js.map": "/portfolio/static/js/488.2f586731.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19cc8643.css",
-    "static/js/main.03225383.js"
+    "static/js/main.a1efe96b.js"
   ]
 }
