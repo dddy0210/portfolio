@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.19cc8643.css",
+    "main.js": "/portfolio/static/js/main.03225383.js",
+    "static/js/488.2f586731.chunk.js": "/portfolio/static/js/488.2f586731.chunk.js",
+    "static/media/GowunDodum-Regular.ttf": "/portfolio/static/media/GowunDodum-Regular.af5304a39dc307a26989.ttf",
+    "static/media/LOGO.png": "/portfolio/static/media/LOGO.5175e6006b0f150e9815.png",
+    "static/media/mypic.jpg": "/portfolio/static/media/mypic.772da4d449d2d6876a30.jpg",
+    "static/media/Firebase-Light.svg": "/portfolio/static/media/Firebase-Light.be39887274fc1d39cbc0965e75787612.svg",
+    "static/media/AWS-Light.svg": "/portfolio/static/media/AWS-Light.5884438f691cc18cce48b06b820acff0.svg",
+    "static/media/Atom.svg": "/portfolio/static/media/Atom.a4b161584e8ce4010f8990dbc5e9219d.svg",
+    "static/media/MySQL-Light.svg": "/portfolio/static/media/MySQL-Light.1baf3273bad5f3b9714f0927cf7d8b3a.svg",
+    "static/media/AndroidStudio-Light.svg": "/portfolio/static/media/AndroidStudio-Light.a4e931536329a592224c22063125baa8.svg",
+    "static/media/NodeJS-Light.svg": "/portfolio/static/media/NodeJS-Light.aea93409f1111d62a1eaa3347b033dda.svg",
+    "static/media/Eclipse-Light.svg": "/portfolio/static/media/Eclipse-Light.c8b7ffe8e37dd4095fd291e730914e80.svg",
+    "static/media/Gradle-Light.svg": "/portfolio/static/media/Gradle-Light.1e41fd26cbf21e42c4baa5129b858639.svg",
+    "static/media/Photoshop.svg": "/portfolio/static/media/Photoshop.0132e92fb9f5e61c78d9f696955f64c6.svg",
+    "static/media/Github-Light.svg": "/portfolio/static/media/Github-Light.7f8df044b637c67b8b8302fd8aaefe32.svg",
+    "static/media/Git.svg": "/portfolio/static/media/Git.87d6e2a3383a582dd8d951daf9c95c04.svg",
+    "static/media/UnrealEngine.svg": "/portfolio/static/media/UnrealEngine.97e75bbfeb9d06375ed6d1d18701bbac.svg",
+    "static/media/Java-Light.svg": "/portfolio/static/media/Java-Light.76016987bb8232e257a6187980dab1cf.svg",
+    "static/media/Unity-Light.svg": "/portfolio/static/media/Unity-Light.08654d13c60f3e869b58826707687541.svg",
+    "static/media/React-Light.svg": "/portfolio/static/media/React-Light.859310e341351502b4a2a19a19f7ad32.svg",
+    "static/media/Python-Light.svg": "/portfolio/static/media/Python-Light.2b3e1cac446d5c43d147be232d2108af.svg",
+    "static/media/Illustrator.svg": "/portfolio/static/media/Illustrator.133082f66f931f7c2643522cd43a2d6e.svg",
+    "static/media/Spring-Light.svg": "/portfolio/static/media/Spring-Light.2e50c40b11e1dd6e58065c21ae4c1e05.svg",
+    "static/media/VSCode.svg": "/portfolio/static/media/VSCode.8a2318f0de04be62a3f172815fe90134.svg",
+    "static/media/JavaScript.svg": "/portfolio/static/media/JavaScript.9a071f2801f9f92598764d48c7225305.svg",
+    "static/media/CS.svg": "/portfolio/static/media/CS.84b775c1cb9fc3e31ea39c46c8d66362.svg",
+    "static/media/CPP.svg": "/portfolio/static/media/CPP.0170491bcee6df72d47e4c10e0fa8b90.svg",
+    "static/media/C.svg": "/portfolio/static/media/C.c626ccb6c2805626752f95c9989dbbb5.svg",
+    "static/media/CSS.svg": "/portfolio/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/HTML.svg": "/portfolio/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
+    "main.19cc8643.css.map": "/portfolio/static/css/main.19cc8643.css.map",
+    "main.03225383.js.map": "/portfolio/static/js/main.03225383.js.map",
+    "488.2f586731.chunk.js.map": "/portfolio/static/js/488.2f586731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19cc8643.css",
+    "static/js/main.03225383.js"
+  ]
+}
