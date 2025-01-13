@@ -27,7 +27,7 @@ function Projects() {
       ],
       thumbnail: projectThumbnail,
       links: [
-        { url: "http://www.countryrat.site", text: "프로젝트 바로가기" },
+        { url: "https://www.countryrat.site", text: "프로젝트 바로가기" },
         {
           url: "https://github.com/dddy0210/TEAM_travel",
           text: "프로젝트 코드(GITHUB)",
